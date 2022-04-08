@@ -17,8 +17,8 @@ status-website:
   baseUrl: /telekomupptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Telekomkollen Upptime"
-  introMessage: Status for Telekomkollen Dashboard Pages
+  introTitle: "Telekomkollen Status"
+  introMessage: "Status for Telekomkollen Dashboard"
   navbar:
     - title: Status
       href: /telekomupptime
