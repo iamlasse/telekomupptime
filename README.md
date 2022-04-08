@@ -1,6 +1,6 @@
 # [📈 Live Status](https://iamlasse.github.io/telekomupptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Lasse Larsen](https://iamlasse.github.io/telekomupptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for Telekomkollen Dashboard](https://iamlasse.github.io/telekomupptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/iamlasse/telekomupptime/workflows/Uptime%20CI/badge.svg)](https://github.com/iamlasse/telekomupptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/iamlasse/telekomupptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/iamlasse/telekomupptime/actions?query=workflow%3A%22Response+Time+CI%22)
