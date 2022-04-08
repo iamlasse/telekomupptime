@@ -5,6 +5,8 @@ repo: telekomupptime # The name of this repository
 sites:
   - name: Telekomkollen Production
     url: https://app.telekomkollen.se
+    assignees:
+      - iamlasse
   - name: Telekomkollen Development
     url: https://dev.telekomkollen.se
 
