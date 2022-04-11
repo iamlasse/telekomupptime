@@ -21,7 +21,7 @@ status-website:
   introMessage: "Status for Telekomkollen Dashboard"
   navbar:
     - title: Status
-      href: /telekomupptime
+      href: /
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
