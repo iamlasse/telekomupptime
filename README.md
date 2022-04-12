@@ -1,4 +1,4 @@
-# [📈 Live Status](https://iamlasse.github.io/telekomupptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://uptime.telekomkollen.se/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for Telekomkollen Dashboard](https://iamlasse.github.io/telekomupptime), powered by [Upptime](https://github.com/upptime/upptime).
 
