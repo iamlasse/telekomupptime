@@ -4,10 +4,10 @@
     "url": "https://app.telekomkollen.se",
     "icon": "https://favicons.githubusercontent.com/app.telekomkollen.se",
     "slug": "telekomkollen-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2359,
@@ -15,14 +15,16 @@
     "timeWeek": 2304,
     "timeMonth": 2359,
     "timeYear": 2359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 1
+    }
   },
   {
     "name": "Telekomkollen Development",
     "url": "https://dev.telekomkollen.se",
     "icon": "https://favicons.githubusercontent.com/dev.telekomkollen.se",
     "slug": "telekomkollen-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 2189,
     "timeMonth": 2343,
     "timeYear": 2343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   }
 ]
